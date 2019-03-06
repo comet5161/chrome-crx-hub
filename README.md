@@ -28,3 +28,8 @@ textarea {background-color:#C7EDCC !important;}
 
 ##SimpRead
 沉浸式阅读，还原阅读的本质，提升阅读体验。
+
+---
+
+##gayhub
+github文件目录导航。
